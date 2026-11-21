@@ -1,6 +1,6 @@
 # Livewire Maps Core
 
-[![Tests](https://github.com/Luinux81/livewire-maps-core/workflows/Tests/badge.svg)](https://github.com/Luinux81/livewire-maps-core/actions)
+[![Tests](https://github.com/LBCDev-Libs/livewire-maps-core/workflows/Tests/badge.svg)](https://github.com/LBCDev-Libs/livewire-maps-core/actions)
 [![Latest Stable Version](https://poser.pugx.org/lbcdev/livewire-maps-core/v)](https://packagist.org/packages/lbcdev/livewire-maps-core)
 [![Total Downloads](https://poser.pugx.org/lbcdev/livewire-maps-core/downloads)](https://packagist.org/packages/lbcdev/livewire-maps-core)
 [![License](https://poser.pugx.org/lbcdev/livewire-maps-core/license)](https://packagist.org/packages/lbcdev/livewire-maps-core)
@@ -23,7 +23,7 @@ A Livewire component for interactive maps with Leaflet.js integration. Core pack
 - PHP 8.1 or higher
 - Laravel 10.x to 13.x
 - Livewire 3.x
-- [lbcdev/map-geometries](https://github.com/Luinux81/map-geometries)
+- [lbcdev/map-geometries](https://github.com/LBCDev-Libs/map-geometries)
 
 ## Installation
 
@@ -304,7 +304,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 This package is part of the LBCDev Maps Suite:
 
-- [map-geometries](https://github.com/Luinux81/map-geometries) - Map geometry classes (Marker, Polyline, etc.)
-- [filament-maps-fields](https://github.com/Luinux81/filament-maps-fields) - Map form fields for Filament
-- [filament-maps-widgets](https://github.com/Luinux81/filament-maps-widgets) - Map widgets for Filament panels
-- [lbcdev-filament-maps-suite](https://github.com/Luinux81/lbcdev-filament-maps-suite) - Meta-package for all components
+- [map-geometries](https://github.com/LBCDev-Libs/map-geometries) - Map geometry classes (Marker, Polyline, etc.)
+- [filament-maps-fields](https://github.com/LBCDev-Libs/filament-maps-fields) - Map form fields for Filament
+- [filament-maps-widgets](https://github.com/LBCDev-Libs/filament-maps-widgets) - Map widgets for Filament panels
+- [lbcdev-filament-maps-suite](https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite) - Meta-package for all components
