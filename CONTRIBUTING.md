@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [GitHub](https://github.com/Luinux81/livewire-maps-core).
+We accept contributions via Pull Requests on [GitHub](https://github.com/LBCDev-Libs/livewire-maps-core).
 
 ## Pull Requests
 
