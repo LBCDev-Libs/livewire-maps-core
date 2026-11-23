@@ -7,6 +7,8 @@
 
 A Livewire component for interactive maps with Leaflet.js integration. Core package for the LBCDev Maps Suite.
 
+📖 [Browse the generated documentation on DeepWiki](https://deepwiki.com/LBCDev-Libs/livewire-maps-core).
+
 ## Features
 
 - 🗺️ **Interactive Maps**: Full Leaflet.js integration via Alpine.js
@@ -20,8 +22,8 @@ A Livewire component for interactive maps with Leaflet.js integration. Core pack
 
 ## Requirements
 
-- PHP 8.1 or higher
-- Laravel 10.x to 13.x
+- PHP 8.2 or higher (Laravel 13 requires PHP 8.3 or higher)
+- Laravel 10.x to 13.x (subject to compatible PHP and dependency versions)
 - Livewire 3.x
 - [lbcdev/map-geometries](https://github.com/LBCDev-Libs/map-geometries)
 
