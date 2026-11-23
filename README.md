@@ -4,6 +4,7 @@
 [![Latest Stable Version](https://poser.pugx.org/lbcdev/livewire-maps-core/v)](https://packagist.org/packages/lbcdev/livewire-maps-core)
 [![Total Downloads](https://poser.pugx.org/lbcdev/livewire-maps-core/downloads)](https://packagist.org/packages/lbcdev/livewire-maps-core)
 [![License](https://poser.pugx.org/lbcdev/livewire-maps-core/license)](https://packagist.org/packages/lbcdev/livewire-maps-core)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LBCDev-Libs/livewire-maps-core)
 
 A Livewire component for interactive maps with Leaflet.js integration. Core package for the LBCDev Maps Suite.
 
